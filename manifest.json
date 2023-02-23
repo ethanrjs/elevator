@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Elevator",
+    "version": "1.0",
+    "description": "Elevator music",
+    "permissions": ["webRequest", "webRequestBlocking", "webNavigation"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "64": "64.png"
+    }
+}
