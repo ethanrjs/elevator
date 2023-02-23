@@ -10,5 +10,7 @@ Simply install the firefox add-on and enjoy non-copyrighted elevator music with 
 ## Installation
 Because this extension has not been verified or signed because I am lazy, do the following:
 1. Navigate to about:debugging and click `This Firefox`
-2. Click `Load Temporary Add-on...` ![image](https://user-images.githubusercontent.com/79817320/220819471-7c486855-fce6-49ac-8eee-afcaaf2dc3fc.png)
-3. Add the .zip and you're good to go!
+2. Click `Load Temporary Add-on...` 
+3. ![image](https://user-images.githubusercontent.com/79817320/220819471-7c486855-fce6-49ac-8eee-afcaaf2dc3fc.png)
+4. Add the .zip and you're good to go!
+![image](https://user-images.githubusercontent.com/79817320/220819535-f1a45c68-27d9-4ae5-8c93-85284a9d6b26.png)
