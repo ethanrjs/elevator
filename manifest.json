@@ -8,6 +8,6 @@
         "scripts": ["background.js"]
     },
     "icons": {
-        "64": "64.png"
+        "128": "128.png"
     }
 }
