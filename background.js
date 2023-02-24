@@ -6,7 +6,7 @@ browser.webNavigation.onCompleted.addListener(details => {
     // pause audio when page fully loads
     if (details.frameId === 0) {
         audio.pause();
-        const ding = new Audio(browser.runtime.getURL('ding.mp3'));
+        const ding = new Audio(browser.runtime.getURL('bell.wav'));
         ding.play();
     }
 });
